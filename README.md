@@ -1,6 +1,7 @@
 # tipografia_itau
 Guia simplificado de tipografia, paleta visual e escala de fontes da marca Itaú.
-
+<br>
+<br>
 # 📌 Identificação <br>
 Aluno: Lara Chiorato Nicoletti n°17
 <br>
@@ -9,6 +10,7 @@ Curso: Desenvolvimento de Sistemas
 Turma: 1IG-DS
 <br>
 Disciplina: Linguagem de Marcação
+<br>
 <br>
 # 🎨 Especificações Básicas<br>
 Fonte Primária: Poppins (Light, Regular, Medium, Bold)
@@ -23,6 +25,7 @@ Cores Principais<br>
 ⬛ Dark: #262323
 <br>
 ⬜ Light: #F2F5F7
+<br>
 <br>
 # 🌗​ Contraste<br>
 Testes de legibilidade aplicados combinando o texto sobre fundos Light, Laranja e Dark.
