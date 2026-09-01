@@ -1,4 +1,4 @@
-# tipografia_itau
+# Tipografia Itaú
 Guia simplificado de tipografia, paleta visual e escala de fontes da marca Itaú.
 <br>
 <br>
