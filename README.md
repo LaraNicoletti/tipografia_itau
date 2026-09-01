@@ -29,3 +29,10 @@ Cores Principais<br>
 <br>
 # 🌗​ Contraste<br>
 Testes de legibilidade aplicados combinando o texto sobre fundos Light, Laranja e Dark.
+<br>
+<br>
+# 🎯 Objetivo
+Desenvolver um Style Guide funcional para a marca Itaú, definindo a escala tipográfica, paleta de cores essenciais e validação de acessibilidade/contraste visual para uso em interfaces digitais.
+<br>
+# 🛠️ Ferramentas Utilizadas
+Figma (Construção do guia visual e teste de estilos)
